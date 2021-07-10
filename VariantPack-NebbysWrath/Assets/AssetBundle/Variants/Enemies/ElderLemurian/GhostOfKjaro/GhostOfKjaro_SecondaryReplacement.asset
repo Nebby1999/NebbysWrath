@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1868806056, guid: 4977c4ff63844754c8406d99764b5202, type: 3}
+  m_Name: GhostOfKjaro_SecondaryReplacement
+  m_EditorClassIdentifier: 
+  skillSlot: 1
+  skillDef: {fileID: 11400000, guid: fdad0da5e012f9d48a339461339ff9d5, type: 2}

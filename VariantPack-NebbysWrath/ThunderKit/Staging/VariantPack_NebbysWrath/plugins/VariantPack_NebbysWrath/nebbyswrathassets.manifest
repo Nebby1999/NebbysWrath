@@ -1,0 +1,419 @@
+ManifestFileVersion: 0
+CRC: 3252914365
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b18d1bbebcad1bfa89fb2ca8324f597
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4255b10c7eab8fabc3afcf8923c433aa
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -1284244208, guid: 06dd3d5416bf43ea368cc39ff96e6d5a, type: 3}
+- Class: 114
+  Script: {fileID: -281164913, guid: 06dd3d5416bf43ea368cc39ff96e6d5a, type: 3}
+- Class: 114
+  Script: {fileID: 1391837873, guid: 06dd3d5416bf43ea368cc39ff96e6d5a, type: 3}
+- Class: 114
+  Script: {fileID: -668213927, guid: 4977c4ff63844754c8406d99764b5202, type: 3}
+- Class: 114
+  Script: {fileID: 87657128, guid: 4977c4ff63844754c8406d99764b5202, type: 3}
+- Class: 114
+  Script: {fileID: 1852376608, guid: 4977c4ff63844754c8406d99764b5202, type: 3}
+- Class: 114
+  Script: {fileID: 2119437388, guid: 4977c4ff63844754c8406d99764b5202, type: 3}
+- Class: 114
+  Script: {fileID: 1253592488, guid: 4977c4ff63844754c8406d99764b5202, type: 3}
+- Class: 114
+  Script: {fileID: 12825916, guid: 4977c4ff63844754c8406d99764b5202, type: 3}
+- Class: 114
+  Script: {fileID: 229304821, guid: 4977c4ff63844754c8406d99764b5202, type: 3}
+- Class: 114
+  Script: {fileID: -935576071, guid: 4977c4ff63844754c8406d99764b5202, type: 3}
+- Class: 114
+  Script: {fileID: 497398634, guid: 4977c4ff63844754c8406d99764b5202, type: 3}
+- Class: 114
+  Script: {fileID: -1868806056, guid: 4977c4ff63844754c8406d99764b5202, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundle/Materials/IchorOverlord/Swipe/texImpSwipeMask.asset
+- Assets/AssetBundle/Variants/Enemies/MiniMushrum/Mamma/MammaShroom_Inventory.asset
+- Assets/AssetBundle/Variants/Enemies/SolusProbe/GaussianProbe/GaussianProbe_VariantConfig.asset
+- Assets/AssetBundle/Variants/Enemies/SolusProbe/SolusProbeMK2/SolusProbeMK2_OverrideName.asset
+- Assets/AssetBundle/Variants/Enemies/LesserWisp/Stone Wisp/StoneWisp_ChargeStoneLaser.asset
+- Assets/AssetBundle/Variants/Enemies/StoneGolem/YeOldeGolem/YeOldeGolem_SizeModifier.asset
+- Assets/AssetBundle/Variants/Bosses/GrandParent/SunWorshipper/SunWorshipper_OverrideName.asset
+- Assets/AssetBundle/Variants/Enemies/ElderLemurian/GhostOfKjaro/GhostOfKjaro.asset
+- Assets/AssetBundle/Variants/Enemies/HermitCrab/MortarCrab/MortarCrab_SizeModifier.asset
+- Assets/AssetBundle/Variants/Bosses/BeetleQueen/Beetle Matriarch/BeetleMatriarch_CallToArmsDef.asset
+- Assets/AssetBundle/Variants/Enemies/Mods/ArchaicWisp/AeonicWisp/AeonicWisp_OverrideName.asset
+- Assets/AssetBundle/Variants/Enemies/GreaterWisp/SomewhatGreatWisp/SomewhatGreatWisp_SizeModifier.asset
+- Assets/AssetBundle/Variants/Enemies/LesserWisp/Almost-ArchaicWisp/AlmostArchaicWisp_Variant_Config.asset
+- Assets/AssetBundle/Materials/IchorOverlord/Dust/IchorClawsRamp.png
+- Assets/AssetBundle/Materials/IchorOverlord/Spikes/IchorClaw.mat
+- Assets/AssetBundle/Variants/Enemies/ElderLemurian/GhostOfKjaro/GhostOfKjaro_VariantConfig.asset
+- Assets/AssetBundle/Shaders/fx/hgdistortion.shader
+- Assets/AssetBundle/Variants/Enemies/MiniMushrum/Mamma/MammaShroom_VariantConfig.asset
+- Assets/AssetBundle/Variants/Enemies/SolusProbe/GaussianProbe/GaussianProbe_PrimaryReplacement.asset
+- Assets/AssetBundle/Materials/HealerShroom/texBlackbeachDirt.asset
+- Assets/AssetBundle/Variants/Enemies/ElderLemurian/GhostOfRunald/GhostOfRunald_VariantConfig.asset
+- Assets/AssetBundle/Variants/Enemies/Mods/ArchaicWisp/ArchaicStoneWisp/ArchaicStoneWisp.asset
+- Assets/AssetBundle/Variants/Enemies/Mods/ArchaicWisp/SomewhatArchaicWisp/SomewhatArchaicWisp_Inventory.asset
+- Assets/AssetBundle/Variants/Enemies/Parent/Adolescent/Adolescent_OverrideName.asset
+- Assets/AssetBundle/Variants/Enemies/HermitCrab/MortarCrab/MortarCrab_OverrideName.asset
+- Assets/AssetBundle/Variants/Bosses/Aurelionite/ColossalAurelionite/ColossalAurelionite_VariantConfig.asset
+- Assets/AssetBundle/Materials/AlphaBison/Body/AlphaBisonBody.mat
+- Assets/AssetBundle/Materials/ADShroom/texBlackbeachDirt.asset
+- Assets/AssetBundle/Variants/Enemies/Parent/Child/Child_SizeModifier.asset
+- Assets/AssetBundle/Shaders/environment/hgdistantwater.shader
+- Assets/AssetBundle/Shaders/fx/hgsolidparallax.shader
+- Assets/AssetBundle/Variants/Enemies/MiniMushrum/AD-Shroom/ADShroom_VariantConfig.asset
+- Assets/AssetBundle/Materials/IchorImp/IchorImp.png
+- Assets/AssetBundle/Variants/Bosses/WanderingVagrant/MothershipVagrant/MothershipVagrant_SummonJellies.asset
+- Assets/AssetBundle/Variants/Bosses/BeetleQueen/BeetleEmpress/BeetleEmpress_OverrideName.asset
+- Assets/AssetBundle/Variants/Bosses/BeetleQueen/Beetle Matriarch/BeetleMatriarch_OverrideName.asset
+- Assets/AssetBundle/Variants/Enemies/SolusProbe/SwarmerProbe/SwarmerProbe_SizeModifier.asset
+- Assets/AssetBundle/Variants/Enemies/BrassContraption/AluminumContraption/AluminumContraption_Inventory.asset
+- Assets/AssetBundle/Variants/Enemies/ClayTemplar/VampiricTemplar/VampiricTemplar_EquipmentInfo.asset
+- Assets/AssetBundle/Variants/Enemies/Mods/ArchaicWisp/AeonicWisp/AeonicWisp.asset
+- Assets/AssetBundle/Variants/Enemies/ElderLemurian/IncineratingElderLemurian/IncineratingElderLemurian_MaterialReplacement.asset
+- Assets/AssetBundle/Variants/Bosses/Aurelionite/PygmyAurelionite/PygmyAurelionite_SizeModifier.asset
+- Assets/AssetBundle/Variants/Enemies/LesserWisp/Almost-ArchaicWisp/AlmostArchaicWisp_ChargeArchaicCannon.asset
+- Assets/AssetBundle/Variants/Enemies/MiniMushrum/AD-Shroom/ADShroom_OverrideName.asset
+- Assets/AssetBundle/Variants/Bosses/BeetleQueen/Beetle Matriarch/BeetleMatriarch_VariantConfig.asset
+- Assets/AssetBundle/Variants/Enemies/BrassContraption/SteelContraption/SteelContraption_VariantConfig.asset
+- Assets/AssetBundle/Variants/Enemies/Imp/BruiserImp/BruiserImp.asset
+- Assets/AssetBundle/Materials/IchorImp/texImpDiffuse.asset
+- Assets/AssetBundle/Variants/Enemies/MiniMushrum/Healer/HealerShroom_SizeModifier.asset
+- Assets/AssetBundle/Variants/Enemies/Mods/ArchaicWisp/ArchaicStoneWisp/ArchaicStoneWisp_VariantConfig.asset
+- Assets/AssetBundle/Variants/Enemies/ElderLemurian/GhostOfRunald/GhostOfRunald_OverrideName.asset
+- Assets/AssetBundle/Shaders/ui/hguibarremap.shader
+- Assets/AssetBundle/Variants/Enemies/Parent/Child/Child_OverrideName.asset
+- Assets/AssetBundle/Variants/Enemies/GreaterWisp/SomewhatGreatWisp/SomewhatGreatWisp_Inventory.asset
+- Assets/AssetBundle/Shaders/environment/hggrass.shader
+- Assets/AssetBundle/Materials/AlphaBison/Hair/AlphaBison_Hair.png
+- Assets/AssetBundle/Variants/Bosses/ClayDunestrider/StarvingDunestrider/StarvingDunestrider_VariantConfig.asset
+- Assets/AssetBundle/Variants/Bosses/Aurelionite/PygmyAurelionite/PygmyAurelionite_VariantConfig.asset
+- Assets/AssetBundle/Variants/Enemies/Imp/BruiserImp/BruiserImp_SizeModifier.asset
+- Assets/AssetBundle/Variants/Bosses/ClayDunestrider/StarvingDunestrider/StarvingDunestrider.asset
+- Assets/AssetBundle/Shaders/fx/hgcloudremap.shader
+- Assets/AssetBundle/Shaders/ui/hguiignorez.shader
+- Assets/AssetBundle/Variants/Enemies/LesserWisp/Stone Wisp/StoneWisp_OverrideName.asset
+- Assets/AssetBundle/Variants/Bosses/AncientWisp/EnragedWisp/EnragedWisp.asset
+- Assets/AssetBundle/Shaders/fx/hgvertexonly.shader
+- Assets/AssetBundle/Items/NW_PulverizedOnHit.asset
+- Assets/AssetBundle/Variants/Enemies/SolusProbe/GaussianProbe/GaussianProbe_SizeModifier.asset
+- Assets/AssetBundle/Variants/Enemies/Parent/Child/hagrid.mesh
+- Assets/AssetBundle/Variants/Enemies/BrassContraption/SteelContraption/SteelContraption_MaterialReplacement.asset
+- Assets/AssetBundle/Variants/Enemies/SolusProbe/SolusProbeMK2/SolusProbeMK2.asset
+- Assets/AssetBundle/Variants/Enemies/ClayTemplar/VampiricTemplar/VampiricTemplar.asset
+- Assets/AssetBundle/Variants/Enemies/ClayTemplar/VampiricTemplar/VampiricTemplar_VariantConfig.asset
+- Assets/AssetBundle/Variants/Enemies/BrassContraption/SteelContraption/SteelContraption_OverrideName.asset
+- Assets/AssetBundle/Variants/Enemies/BrassContraption/AluminumContraption/AluminumContraption_OverrideName.asset
+- Assets/AssetBundle/Variants/Enemies/ElderLemurian/IncineratingElderLemurian/IncineratingElderLemurian_Inventory.asset
+- Assets/AssetBundle/Variants/Enemies/Parent/Child/nebby.blend
+- Assets/AssetBundle/Materials/ADShroom/texMiniMushroomNormal.asset
+- Assets/AssetBundle/Materials/AluminumContraption/AluminumContraptionMaterial.mat
+- Assets/AssetBundle/Variants/Enemies/StoneGolem/YeOldeGolem/YeOldeGolem_titanLaserDef.asset
+- Assets/AssetBundle/Variants/Enemies/MiniMushrum/AD-Shroom/ADShroom.asset
+- Assets/AssetBundle/Variants/Enemies/LesserWisp/LeastestWisp/LeastestWisp_VariantConfig.asset
+- Assets/AssetBundle/Materials/StoneWispFire/StoneWispFireMaterial.mat
+- Assets/AssetBundle/Variants/Enemies/LesserWisp/Stone Wisp/StoneWisp_MaterialReplacement.asset
+- Assets/AssetBundle/Materials/IchorOverlord/Swipe/texCloudDifferenceBW2.asset
+- Assets/AssetBundle/Variants/Enemies/LesserWisp/Almost-ArchaicWisp/AlmostArchaicWisp_LightReplacement.asset
+- Assets/AssetBundle/Variants/Enemies/Imp/BruiserImp/BruiserImp_SkillReplacement.asset
+- Assets/AssetBundle/Materials/HealerShroom/texMiniMushroomNormal.asset
+- Assets/AssetBundle/Variants/Enemies/Mods/ArchaicWisp/SomewhatArchaicWisp/SomewhatArchaicWisp_SizeModifier.asset
+- Assets/AssetBundle/Variants/Enemies/Mods/ArchaicWisp/ArchaicStoneWisp/ArchaicStoneWisp_DoubleMegaLaser.asset
+- Assets/AssetBundle/Variants/Enemies/Mods/ArchaicWisp/AeonicWisp/AeonicWisp_VariantConfig.asset
+- Assets/AssetBundle/Variants/Enemies/LesserWisp/Stone Wisp/StoneWisp_LightReplacement.asset
+- Assets/AssetBundle/Variants/Enemies/Imp/IchorImp/IchorImp_OverrideName.asset
+- Assets/AssetBundle/Variants/Enemies/GreaterWisp/GreaterStoneWisp/GreaterStoneWisp_VariantConfig.asset
+- Assets/AssetBundle/Variants/Bosses/ClayDunestrider/DevourerDunestrider/DevourerDunestrider_OverrideName.asset
+- Assets/AssetBundle/Materials/IchorOverlord/Dust/IchorDust.mat
+- Assets/AssetBundle/Variants/Enemies/ElderLemurian/IncineratingElderLemurian/IncineratingElderLemurian_ChargeSingleFireballDef.asset
+- Assets/AssetBundle/Variants/Enemies/Mods/MoffeinClayMen/ClaySoldier/ClaySoldier_Inventory.asset
+- Assets/AssetBundle/Variants/Enemies/GreaterWisp/GreaterStoneWisp/GreaterStoneWisp_OverrideName.asset
+- Assets/AssetBundle/Variants/Enemies/Mods/MoffeinClayMen/ClayAssasin/ClayAssasin_SuperBleedSwipe.asset
+- Assets/AssetBundle/Variants/Bosses/BeetleQueen/BeetleEmpress/BeetleEmpress_SpecialReplacement.asset
+- Assets/AssetBundle/Variants/Enemies/ElderLemurian/IncineratingElderLemurian/IncineratingElderLemurian.asset
+- Assets/AssetBundle/Variants/Enemies/SolusProbe/SolusProbeMK2/SolusProbeMK2_SizeModifier.asset
+- Assets/AssetBundle/Variants/Enemies/Bison/AlphaBison/AlphaBison_MaterialReplacement
+  1.asset
+- Assets/AssetBundle/Variants/Enemies/Imp/IchorImp/IchorImp.asset
+- Assets/AssetBundle/Variants/Bosses/Aurelionite/ColossalAurelionite/ColossalStoneTitan_SizeModifier.asset
+- Assets/AssetBundle/Variants/Bosses/BeetleQueen/BeetleEmpress/BeetleEmpress.asset
+- Assets/AssetBundle/Variants/Enemies/Parent/Child/Child_Inventory.asset
+- Assets/AssetBundle/Materials/HealerShroom/HealerShroom.png
+- Assets/AssetBundle/Materials/AlphaBison/Body/AlphaBison.png
+- Assets/AssetBundle/Variants/Enemies/MiniMushrum/Mamma/MammaShroom.asset
+- Assets/AssetBundle/Variants/Enemies/StoneGolem/YeOldeGolem/YeOldeGolem_SecondaryReplacement.asset
+- Assets/AssetBundle/Variants/Enemies/Bison/AlphaBison/AlphaBison_OverrideName.asset
+- Assets/AssetBundle/Variants/Bosses/ClayDunestrider/StarvingDunestrider/StarvingDunestrider_VariantInventory.asset
+- Assets/AssetBundle/Variants/Enemies/BrassContraption/AluminumContraption/AluminumContraption.asset
+- Assets/AssetBundle/Variants/Enemies/Mods/ArchaicWisp/ArchaicStoneWisp/ArchaicStoneWisp_PrimaryReplacement.asset
+- Assets/AssetBundle/Variants/Enemies/SolusProbe/SwarmerProbe/SwarmerProbe_OverrideName.asset
+- Assets/AssetBundle/Variants/Enemies/Bison/AlphaBison/AlphaBison_VariantSizeModifier.asset
+- Assets/AssetBundle/Variants/Enemies/Mods/MoffeinClayMen/ClayAssasin/ClayAssasin_SizeModifier.asset
+- Assets/AssetBundle/Variants/Enemies/Mods/MoffeinClayMen/ClayAssasin/ClayAssasin_OverrideName.asset
+- Assets/AssetBundle/Variants/Enemies/Mods/MoffeinClayMen/ClaySoldier/ClaySoldier_VariantConfig.asset
+- Assets/AssetBundle/Variants/Enemies/ElderLemurian/GhostOfKjaro/GhostOfKjaro_SummoningRoarDef.asset
+- Assets/AssetBundle/Variants/Bosses/ClayDunestrider/DevourerDunestrider/DevourerDunestrider_SpecialReplacement.asset
+- Assets/AssetBundle/Variants/Enemies/LesserWisp/Stone Wisp/StoneWisp_MaterialReplacement
+  1.asset
+- Assets/AssetBundle/Materials/HealerShroom/HealerShroomEmmision.png
+- Assets/AssetBundle/Variants/Bosses/ImpOverlord/IchorOverlord/IchorOverlord_DustReplacement.asset
+- Assets/AssetBundle/Shaders/postprocess/hgscreendamage.shader
+- Assets/AssetBundle/Materials/ADShroom/texGPLichenTerrain.asset
+- Assets/AssetBundle/Variants/Enemies/LesserWisp/Almost-ArchaicWisp/AlmostArchaicWisp_MaterialReplacement.asset
+- Assets/AssetBundle/Shaders/ui/hguicustomblend.shader
+- Assets/AssetBundle/Variants/Enemies/BrassContraption/AluminumContraption/AluminumContraption_VariantConfig.asset
+- Assets/AssetBundle/Variants/Bosses/ImpOverlord/IchorOverlord/IchorOverlord_OverrideName.asset
+- Assets/AssetBundle/Variants/Bosses/GrandParent/SunWorshipper/SunWorshipper.asset
+- Assets/AssetBundle/Variants/Enemies/MiniMushrum/Mamma/VariantSizeModifier.asset
+- Assets/AssetBundle/Variants/Enemies/GreaterWisp/GreaterStoneWisp/GreaterStoneWisp.asset
+- Assets/AssetBundle/Variants/Bosses/ImpOverlord/IchorOverlord/IchorOverlord_Inventory.asset
+- Assets/AssetBundle/Variants/Enemies/ElderLemurian/GhostOfKjaro/GhostOfKjaro_MaterialReplacement.asset
+- Assets/AssetBundle/Variants/Enemies/Imp/BruiserImp/BruiserImp_Test.asset
+- Assets/AssetBundle/Variants/Enemies/Mods/MoffeinClayMen/ClayAssasin/ClayAssasin_PrimaryReplacement.asset
+- Assets/AssetBundle/Variants/Bosses/Aurelionite/ColossalAurelionite/ColossalAurelionite_NameOverride.asset
+- Assets/AssetBundle/Variants/Bosses/Aurelionite/AncientStoneTitan/AncientStoneTitan_OverrideNAme.asset
+- Assets/AssetBundle/Variants/Enemies/LesserWisp/LeastestWisp/LeastestWisp_OverrideName.asset
+- Assets/AssetBundle/Materials/IchorOverlord/Dust/texCloudOrganic2.asset
+- Assets/AssetBundle/Variants/Bosses/Aurelionite/ColossalAurelionite/ColossalAurelionite.asset
+- Assets/AssetBundle/Variants/Enemies/LesserWisp/Stone Wisp/StoneWisp_VariantConfig.asset
+- Assets/AssetBundle/Variants/Enemies/LesserWisp/Almost-ArchaicWisp/AlmostArchaicWisp_SizeModifier.asset
+- Assets/AssetBundle/Variants/Enemies/ElderLemurian/GhostOfRunald/GhostOfRunald_Equipment.asset
+- Assets/AssetBundle/Variants/Enemies/Imp/BruiserImp/BruiserImp_OverrideName.asset
+- Assets/AssetBundle/Variants/Enemies/LesserWisp/Stone Wisp/StoneWisp_SkillReplacement.asset
+- Assets/AssetBundle/Variants/Enemies/Parent/Adolescent/Adolescent.asset
+- Assets/AssetBundle/Variants/Enemies/LesserWisp/Stone Wisp/StoneWisp_SizeModifier.asset
+- Assets/AssetBundle/Variants/Bosses/ImpOverlord/IchorOverlord/IchorOverlord_LightReplacement.asset
+- Assets/AssetBundle/Variants/Bosses/StoneTitan/AncientStoneTitan/AncientStoneTitan_VariantConfig.asset
+- Assets/AssetBundle/Variants/Enemies/Mods/MoffeinClayMen/ClayAssasin/ClayAssasin_SpectralMat
+  2.asset
+- Assets/AssetBundle/Variants/Enemies/Mods/ArchaicWisp/SomewhatArchaicWisp/SomewhatArchaicWisp.asset
+- Assets/AssetBundle/Variants/Enemies/ElderLemurian/GhostOfKjaro/GhostOfKjaro_Inventory.asset
+- Assets/AssetBundle/Variants/Enemies/GreaterWisp/GreaterStoneWisp/GreaterStoneWisp_SkillReplacement.asset
+- Assets/AssetBundle/Variants/Bosses/BeetleQueen/Beetle Matriarch/BeetleMatriarch_SpecialReplacement.asset
+- Assets/AssetBundle/Variants/Enemies/Mods/ArchaicWisp/SomewhatArchaicWisp/SomewhatArchaicWisp_OverrideName.asset
+- Assets/AssetBundle/Variants/Enemies/BrassContraption/SteelContraption/SteelContraption.asset
+- Assets/AssetBundle/Materials/IchorOverlord/Body/IchorOverlordEmission.png
+- Assets/AssetBundle/Variants/Enemies/ElderLemurian/IncineratingElderLemurian/IncineratingElderLemurian_IncineratingFlameBreathDef.asset
+- Assets/AssetBundle/Variants/Enemies/Bison/AlphaBison/AlphaBison.asset
+- Assets/AssetBundle/Variants/Bosses/ClayDunestrider/DevourerDunestrider/DevourerDunestrider.asset
+- Assets/AssetBundle/Variants/Enemies/BrassContraption/AluminumContraption/AluminumContraption_SizeModifier.asset
+- Assets/AssetBundle/Variants/Enemies/Imp/BruiserImp/ImpMesh.mesh
+- Assets/AssetBundle/Materials/ADShroom/ADShroom.png
+- Assets/AssetBundle/Variants/Enemies/GreaterWisp/AmalgamatedGreaterWisp/AmalgamatedGreaterWisp_LightReplacement.asset
+- Assets/AssetBundle/Variants/Bosses/ClayDunestrider/DevourerDunestrider/DevourerDunestrider_VariantConfig.asset
+- Assets/AssetBundle/Materials/IchorImp/hgstandard.shader
+- Assets/AssetBundle/Variants/Enemies/BrassContraption/AluminumContraption/AluminumContraption_MaterialReplacement.asset
+- Assets/AssetBundle/Materials/StoneWispFire/texCloudDifferenceBW2.asset
+- Assets/AssetBundle/Materials/IchorImp/texImpNormal.asset
+- Assets/AssetBundle/Variants/Enemies/GreaterWisp/AmalgamatedGreaterWisp/AmalgamatedGreaterWisp.asset
+- Assets/AssetBundle/Variants/Enemies/Parent/Child/ChildTest.asset
+- Assets/AssetBundle/Variants/Bosses/ClayDunestrider/StarvingDunestrider/StarvingDunestrider_OverrideName.asset
+- Assets/AssetBundle/Variants/Enemies/MiniMushrum/Healer/HealerShroom_OverrideName.asset
+- Assets/AssetBundle/Variants/Enemies/ClayTemplar/VampiricTemplar/VampiricTemplar_SizeModifier.asset
+- Assets/AssetBundle/Variants/Enemies/GreaterWisp/AmalgamatedGreaterWisp/AmalgamatedGreaterWisp_VariantConfig.asset
+- Assets/AssetBundle/Variants/Bosses/ImpOverlord/BerserkerOverlord/BerserkerOverlord_SizeModifier.asset
+- Assets/AssetBundle/Variants/Enemies/ElderLemurian/IncineratingElderLemurian/IncineratingElderLemurian_OverrideName.asset
+- Assets/AssetBundle/Variants/Enemies/Mods/MoffeinClayMen/ClayAssasin/ClayAssasin_SpectralMat.asset
+- Assets/AssetBundle/Variants/Enemies/Parent/Child/EmptySkillDef.asset
+- Assets/AssetBundle/Variants/Enemies/GreaterWisp/AmalgamatedGreaterWisp/AmalgamatedGreaterWisp_ChargeGreaterEmbersDef.asset
+- Assets/AssetBundle/Variants/Enemies/Parent/Adolescent/Adolescent_SizeModifier.asset
+- Assets/AssetBundle/Variants/Enemies/BrassContraption/SteelContraption/SteelContraption_SkillReplacement.asset
+- Assets/AssetBundle/Variants/Enemies/LesserWisp/Stone Wisp/StoneWisp.asset
+- Assets/AssetBundle/Variants/Enemies/MiniMushrum/AD-Shroom/ADShroom_MaterialReplacement.asset
+- Assets/AssetBundle/Variants/Bosses/BeetleQueen/BeetleEmpress/BeetleEmpress_SizeModifier.asset
+- Assets/AssetBundle/Variants/Bosses/BeetleQueen/BeetleEmpress/BeetleEmpress_BeetleSwarmDef.asset
+- Assets/AssetBundle/Materials/ADShroom/ADShroomEmmision.png
+- Assets/AssetBundle/Variants/Bosses/ClayDunestrider/DevourerDunestrider/DevourerDunestrider_SuperSuccDef.asset
+- Assets/AssetBundle/Variants/Enemies/Parent/Child/Child_TantrumDef.asset
+- Assets/AssetBundle/Shaders/postprocess/hgoutlinehighlight.shader
+- Assets/AssetBundle/Materials/IchorOverlord/Body/IchorOverlordFresnell.png
+- Assets/AssetBundle/Variants/Bosses/ClayDunestrider/DevourerDunestrider/DevourerDunestrider_Inventory.asset
+- Assets/AssetBundle/Variants/Enemies/MiniMushrum/Healer/HealerShroom_Inventory.asset
+- Assets/AssetBundle/Variants/Bosses/AlloyWorshipUnit/Malfunctioning AWU/MalfunctioningSCU_VariantConfig.asset
+- Assets/AssetBundle/Materials/StoneWispFire/texRampGolemElectric.asset
+- Assets/AssetBundle/Variants/Enemies/Mods/ArchaicWisp/AeonicWisp/AeonicWisp_Inventory.asset
+- Assets/AssetBundle/Variants/Enemies/Mods/ArchaicWisp/ArchaicStoneWisp/ArchaicStoneWisp_OverrideName.asset
+- Assets/AssetBundle/Variants/Enemies/LesserWisp/Almost-ArchaicWisp/AlmostArchaicWisp_OverrideName.asset
+- Assets/AssetBundle/Materials/HealerShroom/texGPLichenTerrain.asset
+- Assets/AssetBundle/Variants/Bosses/AncientWisp/EnragedWisp/EnragedWisp_OverrideName.asset
+- Assets/AssetBundle/Variants/Enemies/BrassContraption/SteelContraption/SteelContraption_MegaBallDef.asset
+- Assets/AssetBundle/Materials/AlphaBison/Body/texBisonNormal.asset
+- Assets/AssetBundle/Variants/Enemies/Imp/IchorImp/IchorImp_MaterialReplacement.asset
+- Assets/AssetBundle/Shaders/fx/hgopaquecloudremap.shader
+- Assets/AssetBundle/Variants/Enemies/Mods/MoffeinClayMen/ClaySoldier/ClaySoldier_OverrideName.asset
+- Assets/AssetBundle/Variants/Bosses/SolusControlUnit/Malfunctioning SCU/MalfunctioningSCU.asset
+- Assets/AssetBundle/Materials/IchorImp/texCloudOrganic1.asset
+- Assets/AssetBundle/Materials/IchorOverlord/Body/IchorOverlordNormal.png
+- Assets/AssetBundle/Variants/Enemies/GreaterWisp/SomewhatGreatWisp/SomewhatGreatWisp.asset
+- Assets/AssetBundle/Variants/Enemies/GreaterWisp/AmalgamatedGreaterWisp/AmalgamatedGreaterWisp_SizeModifier.asset
+- Assets/AssetBundle/Materials/AluminumContraption/texBellNormal.asset
+- Assets/AssetBundle/Variants/Enemies/Imp/IchorImp/IchorImp_IchorClaws.asset
+- Assets/AssetBundle/Variants/Enemies/HermitCrab/MortarCrab/MortarCrab_VariantConfig.asset
+- Assets/AssetBundle/Variants/Enemies/Parent/Child/Child_PrimaryReplacement.asset
+- Assets/AssetBundle/Variants/Enemies/MiniMushrum/AD-Shroom/ADShroom_Inventory.asset
+- Assets/AssetBundle/Variants/Enemies/ClayTemplar/VampiricTemplar/VampiricTemplar_Inventory.asset
+- Assets/AssetBundle/Variants/Bosses/AncientWisp/EnragedWisp/EnragedWisp_VariantConfig.asset
+- Assets/AssetBundle/Variants/Enemies/SolusProbe/GaussianProbe/GaussianProbe.asset
+- Assets/AssetBundle/Variants/Enemies/StoneGolem/YeOldeGolem/YeOldeGolem.asset
+- Assets/AssetBundle/Variants/Bosses/ImpOverlord/BerserkerOverlord/BerserkerOverlord_OverrideName.asset
+- Assets/AssetBundle/Shaders/fx/hgforwardplanet.shader
+- Assets/AssetBundle/Variants/Bosses/ImpOverlord/IchorOverlord/IchorOverlord_BodyReplacement.asset
+- Assets/AssetBundle/Variants/Enemies/Mods/MoffeinClayMen/ClaySoldier/ClaySoldier.asset
+- Assets/AssetBundle/Variants/Bosses/ImpOverlord/IchorOverlord/IchorOverlord_LightReplacement
+  1.asset
+- Assets/AssetBundle/Variants/Enemies/Parent/Child/Child_UtilityReplacement.asset
+- Assets/AssetBundle/Variants/Enemies/Parent/Child/Child_VariantConfig.asset
+- Assets/AssetBundle/Variants/Bosses/ImpOverlord/IchorOverlord/IchorOverlord.asset
+- Assets/AssetBundle/Variants/Bosses/WanderingVagrant/MothershipVagrant/MothershipVagrant_VariantConfig.asset
+- Assets/AssetBundle/Variants/Enemies/GreaterWisp/GreaterStoneWisp/GreaterStoneWisp_SizeModifier.asset
+- Assets/AssetBundle/Variants/Enemies/ElderLemurian/IncineratingElderLemurian/IncineratingElderLemurian_VariantConfig.asset
+- Assets/AssetBundle/Variants/Enemies/MiniMushrum/Healer/HealerShroom.asset
+- Assets/AssetBundle/Variants/Enemies/SolusProbe/SwarmerProbe/SwarmerProbe.asset
+- Assets/AssetBundle/Variants/Bosses/StoneTitan/AncientStoneTitan/AncientStoneTitan_OverrideNAme.asset
+- Assets/AssetBundle/Variants/Bosses/BeetleQueen/BeetleEmpress/BeetleEmpress_VariantConfig.asset
+- Assets/AssetBundle/Materials/StoneWispFire/texGlowPaintMask.asset
+- Assets/AssetBundle/Materials/IchorImp/texImpEmission.asset
+- Assets/AssetBundle/Variants/Enemies/StoneGolem/YeOldeGolem/YeOldeGolem_OverrideName.asset
+- Assets/AssetBundle/Materials/IchorOverlord/Swipe/IchorSwipe.mat
+- Assets/AssetBundle/Variants/Enemies/Mods/MoffeinClayMen/ClayAssasin/ClayAssasin.asset
+- Assets/AssetBundle/Variants/Enemies/Parent/Child/Child.asset
+- Assets/AssetBundle/Variants/Enemies/Imp/IchorImp/IchorImp_PrimaryReplacement.asset
+- Assets/AssetBundle/Variants/Enemies/GreaterWisp/SomewhatGreatWisp/SomewhatGreatWisp_VariantConfig.asset
+- Assets/AssetBundle/Variants/Enemies/SolusProbe/GaussianProbe/GaussianProbe_GaussianBurstDef.asset
+- Assets/AssetBundle/Variants/Enemies/Parent/Adolescent/Adolescent_Inventory.asset
+- Assets/AssetBundle/Variants/Enemies/Bison/AlphaBison/AlphaBison_MaterialReplacement.asset
+- Assets/AssetBundle/Variants/Bosses/AlloyWorshipUnit/Malfunctioning AWU/MalfunctioningSCU_OverrideName.asset
+- Assets/AssetBundle/Variants/Enemies/Mods/ArchaicWisp/SomewhatArchaicWisp/SomewhatArchaicWisp_VariantConfig.asset
+- Assets/AssetBundle/Variants/Enemies/SolusProbe/SwarmerProbe/SwarmerProbe_VariantInventory.asset
+- Assets/AssetBundle/Materials/IchorOverlord/Body/IchorOverlord.png
+- Assets/AssetBundle/Variants/Enemies/Mods/ArchaicWisp/AeonicWisp/AeonicWisp_SizeModifier.asset
+- Assets/AssetBundle/Variants/Bosses/Aurelionite/AncientStoneTitan/AncientStoneTitan_VariantConfig.asset
+- Assets/AssetBundle/Variants/Bosses/WanderingVagrant/MothershipVagrant/MothershipVagrant.asset
+- Assets/AssetBundle/Shaders/environment/hgwaterfall.shader
+- Assets/AssetBundle/Variants/Enemies/LesserWisp/Almost-ArchaicWisp/AlmostArchaicWisp.asset
+- Assets/AssetBundle/Variants/Bosses/ImpOverlord/IchorOverlord/IchorOverlord_VariantConfig.asset
+- Assets/AssetBundle/Variants/Enemies/GreaterWisp/SomewhatGreatWisp/SomewhatGreatWisp_OverrideName.asset
+- Assets/AssetBundle/Variants/Bosses/ImpOverlord/IchorOverlord/IchorOverlord_FireIchorSpikes.asset
+- Assets/AssetBundle/Variants/Enemies/Imp/BruiserImp/ImpBody.fbx
+- Assets/AssetBundle/Variants/Enemies/ElderLemurian/GhostOfKjaro/GhostOfKjaro_OverrideName.asset
+- Assets/AssetBundle/Variants/Enemies/SolusProbe/GaussianProbe/GaussianProbe_OverrideName.asset
+- Assets/AssetBundle/Variants/Bosses/Aurelionite/ColossalAurelionite/ColossalStoneTitan_Inventory.asset
+- Assets/AssetBundle/Variants/Enemies/StoneGolem/YeOldeGolem/YeOldeGolem_EquipmentInfo.asset
+- Assets/AssetBundle/Variants/Enemies/ClayTemplar/VampiricTemplar/VampiricTemplar_OverrideName.asset
+- Assets/AssetBundle/Variants/Enemies/Bison/AlphaBison/AlphaBison_Inventory.asset
+- Assets/AssetBundle/Materials/AlphaBison/Hair/AlphaBisonHair.mat
+- Assets/AssetBundle/Shaders/deferred/hgsnowtopped.shader
+- Assets/AssetBundle/Variants/Enemies/Mods/MoffeinClayMen/ClayAssasin/ClayAssasin_Inventory.asset
+- Assets/AssetBundle/Materials/IchorOverlord/Dust/texBasicMask.asset
+- Assets/AssetBundle/Shaders/postprocess/hgsobelbuffer.shader
+- Assets/AssetBundle/Variants/Bosses/BeetleQueen/Beetle Matriarch/BeetleMatriarch.asset
+- Assets/AssetBundle/Variants/Bosses/SolusControlUnit/Malfunctioning SCU/MalfunctioningSCU_OverrideName.asset
+- Assets/AssetBundle/Materials/ADShroom/ADShroomMaterial.mat
+- Assets/AssetBundle/Variants/Bosses/ImpOverlord/BerserkerOverlord/BerserkerOverlord_VariantConfig.asset
+- Assets/AssetBundle/Variants/Bosses/AlloyWorshipUnit/Malfunctioning AWU/MalfunctioningAWU.asset
+- Assets/AssetBundle/Variants/Bosses/Aurelionite/AncientStoneTitan/AncientStoneTitan.asset
+- Assets/AssetBundle/Materials/IchorOverlord/Body/IchorImpRamp.png
+- Assets/AssetBundle/Variants/Enemies/Imp/IchorImp/IchorImp_Inventory.asset
+- Assets/AssetBundle/Variants/Enemies/GreaterWisp/AmalgamatedGreaterWisp/AmalgamatedGreaterWisp_OverrideName.asset
+- Assets/AssetBundle/Variants/Enemies/MiniMushrum/Healer/HealerShroom_VariantConfig.asset
+- Assets/AssetBundle/Variants/Bosses/StoneTitan/AncientStoneTitan/AncientStoneTitan.asset
+- Assets/AssetBundle/Variants/Enemies/Bison/AlphaBison/AlphaBison_VariantConfig.asset
+- Assets/AssetBundle/Shaders/ui/hguioverbrighten.shader
+- Assets/AssetBundle/Variants/Enemies/HermitCrab/MortarCrab/MortarCrab_Inventory.asset
+- Assets/AssetBundle/Variants/Enemies/Imp/BruiserImp/BruiserImp_VariantConfig.asset
+- Assets/AssetBundle/Variants/Enemies/Mods/ArchaicWisp/ArchaicStoneWisp/ArchaicStoneWisp_SizeModifier.asset
+- Assets/AssetBundle/Shaders/fx/hgintersectioncloudremap.shader
+- Assets/AssetBundle/Shaders/ui/hguiblur.shader
+- Assets/AssetBundle/Variants/Enemies/GreaterWisp/AmalgamatedGreaterWisp/AmalgamatedGreaterWisp_Material.asset
+- Assets/AssetBundle/Variants/Bosses/Aurelionite/PygmyAurelionite/PygmyAurelionite.asset
+- Assets/AssetBundle/Materials/IchorOverlord/Body/texCloudOrganic2.png
+- Assets/AssetBundle/Shaders/deferred/hgwavycloth.shader
+- Assets/AssetBundle/Shaders/deferred/hgtriplanarterrainblend.shader
+- Assets/AssetBundle/Variants/Enemies/LesserWisp/Almost-ArchaicWisp/AlmostArchaicWisp_MaterialReplacement
+  1.asset
+- Assets/AssetBundle/Variants/Enemies/Imp/IchorImp/IchorImp_VariantConfig.asset
+- Assets/AssetBundle/Shaders/fx/hgdamagenumber.shader
+- Assets/AssetBundle/Variants/Enemies/GreaterWisp/AmalgamatedGreaterWisp/AmalgamatedGreaterWisp_Material
+  1.asset
+- Assets/AssetBundle/Variants/Enemies/LesserWisp/LeastestWisp/LeastestWisp_SizeModifier.asset
+- Assets/AssetBundle/Variants/Enemies/HermitCrab/MortarCrab/MortarCrab.asset
+- Assets/AssetBundle/Variants/Bosses/Aurelionite/PygmyAurelionite/PygmyAurelionite_OverrideName.asset
+- Assets/AssetBundle/Variants/Enemies/GreaterWisp/AmalgamatedGreaterWisp/AmalgamatedGreaterWisp_SkillReplacement.asset
+- Assets/AssetBundle/Variants/Enemies/ElderLemurian/GhostOfRunald/GhostOfRunald_Inventory.asset
+- Assets/AssetBundle/Variants/Enemies/LesserWisp/LeastestWisp/LeastestWisp.asset
+- Assets/AssetBundle/Variants/Bosses/ImpOverlord/BerserkerOverlord/BerserkerOverlord_SkillReplacement.asset
+- Assets/AssetBundle/Variants/Bosses/ImpOverlord/IchorOverlord/IchorOverlord_SwipeReplacement.asset
+- Assets/AssetBundle/Variants/Enemies/SolusProbe/SolusProbeMK2/SolusProbeMK2_PrimaryReplacement.asset
+- Assets/AssetBundle/Variants/Enemies/ElderLemurian/GhostOfKjaro/GhostOfKjaro_Equipment.asset
+- Assets/AssetBundle/Variants/Bosses/ImpOverlord/BerserkerOverlord/BerserkerOverlord.asset
+- Assets/AssetBundle/Materials/SteelContraption/texBellNormal.asset
+- Assets/AssetBundle/Variants/Bosses/ImpOverlord/IchorOverlord/IchorOverlord_PrimaryReplacement.asset
+- Assets/AssetBundle/Variants/Enemies/MiniMushrum/Healer/HealerShroom_MaterialReplacement.asset
+- Assets/AssetBundle/Variants/Enemies/MiniMushrum/AD-Shroom/ADShroom_SizeModifier.asset
+- Assets/AssetBundle/Variants/Enemies/Parent/Child/ParentMesh.001.mesh
+- Assets/AssetBundle/Variants/Enemies/ElderLemurian/IncineratingElderLemurian/IncineratingElderLemurian_SecondaryReplacement.asset
+- Assets/AssetBundle/Materials/SteelContraption/SteelContraptionMaterial.mat
+- Assets/AssetBundle/Materials/AluminumContraption/AluminumContraptionDiffuse.png
+- Assets/AssetBundle/Variants/Enemies/Mods/MoffeinClayMen/ClayAssasin/ClayAssasin_SpectralMat
+  1.asset
+- Assets/AssetBundle/Variants/Bosses/ImpOverlord/BerserkerOverlord/BerserkerOverlord_Inventory.asset
+- Assets/AssetBundle/Variants/Enemies/Imp/BruiserImp/BruiserImp_Inventory.asset
+- Assets/AssetBundle/NebbysWrathContent.asset
+- Assets/AssetBundle/Variants/Bosses/GrandParent/SunWorshipper/SunWorshipper_VariantConfig.asset
+- Assets/AssetBundle/Variants/Bosses/SolusControlUnit/Malfunctioning SCU/MalfunctioningSCU_VariantConfig.asset
+- Assets/AssetBundle/Materials/IchorOverlord/Body/IchorOverlord.mat
+- Assets/AssetBundle/Materials/SteelContraption/SteelContraption.png
+- Assets/AssetBundle/Variants/Enemies/Parent/Adolescent/Adolescent_VariantConfig.asset
+- Assets/AssetBundle/Variants/Bosses/WanderingVagrant/MothershipVagrant/MothershipVagrant_OverrideNAme.asset
+- Assets/AssetBundle/Variants/Enemies/ElderLemurian/GhostOfRunald/GhostOfRunald.asset
+- Assets/AssetBundle/Variants/Enemies/ElderLemurian/GhostOfKjaro/GhostOfKjaro_SizeModifier.asset
+- Assets/AssetBundle/Variants/Enemies/ElderLemurian/IncineratingElderLemurian/IncineratingElderLemurian_SizeModifier.asset
+- Assets/AssetBundle/Shaders/deferred/hgstandard.shader
+- Assets/AssetBundle/Variants/Bosses/BeetleQueen/BeetleEmpress/BeetleEmpress_Inventory.asset
+- Assets/AssetBundle/Variants/Enemies/ElderLemurian/GhostOfKjaro/GhostOfKjaro_SecondaryReplacement.asset
+- Assets/AssetBundle/Materials/IchorImp/matImp.mat
+- Assets/AssetBundle/Materials/IchorOverlord/Spikes/texCloudOrganic2.asset
+- Assets/AssetBundle/Variants/Enemies/StoneGolem/YeOldeGolem/YeOldeGolem_VariantConfig.asset
+- Assets/AssetBundle/Variants/Enemies/SolusProbe/SolusProbeMK2/SolusProbeMK2_MK2ChargeDef.asset
+- Assets/AssetBundle/Materials/IchorImp/texRampGolem.asset
+- Assets/AssetBundle/Variants/Bosses/ClayDunestrider/DevourerDunestrider/DevourerDunestrider_SizeModifier.asset
+- Assets/AssetBundle/Variants/Enemies/Mods/MoffeinClayMen/ClayAssasin/ClayAssasin_VariantConfig.asset
+- Assets/AssetBundle/Variants/Enemies/Mods/MoffeinClayMen/ClaySoldier/ClaySoldier_SizeModifier.asset
+- Assets/AssetBundle/Variants/Enemies/LesserWisp/LeastestWisp/LeastestWisp_Inventory.asset
+- Assets/AssetBundle/Materials/HealerShroom/ADShroomMaterial.mat
+- Assets/AssetBundle/Shaders/ui/hguianimatealpha.shader
+- Assets/AssetBundle/Variants/Enemies/SolusProbe/SolusProbeMK2/SolusProbeMK2_VariantConfig.asset
+- Assets/AssetBundle/Variants/Enemies/MiniMushrum/Mamma/MammaShroom_OverrideName.asset
+- Assets/AssetBundle/Variants/Enemies/GreaterWisp/GreaterStoneWisp/GreaterStoneWisp_ChargeDoubleStoneLaserDef.asset
+- Assets/AssetBundle/Variants/Enemies/ElderLemurian/IncineratingElderLemurian/IncineratingElderLemurian_PrimaryReplacement.asset
+- Assets/AssetBundle/Variants/Bosses/WanderingVagrant/MothershipVagrant/MothershipVagrant_SkillReplacement.asset
+- Assets/AssetBundle/Variants/Enemies/SolusProbe/SwarmerProbe/SwarmerProbe_VariantConfig.asset
+- Assets/AssetBundle/Shaders/postprocess/hgscopeshader.shader
+- Assets/AssetBundle/Variants/Enemies/LesserWisp/Almost-ArchaicWisp/AlmostArchaicWisp_SkillReplacement.asset
+Dependencies: []

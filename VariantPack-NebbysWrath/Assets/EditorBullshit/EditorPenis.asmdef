@@ -1,0 +1,19 @@
+{
+    "name": "EditorPenis",
+    "references": [],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "BepInEx.dll",
+        "HGCSharpUtils.dll",
+        "VarianceAPI.dll",
+        "MMHOOK_Assembly-CSharp.dll",
+        "R2API.dll",
+        "StubbedAssembly-CSharp.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
