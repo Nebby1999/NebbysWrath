@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3252914365
+CRC: 107212795
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9b18d1bbebcad1bfa89fb2ca8324f597
+    Hash: fe7af892ad6a90fc2cc5e1cc5fd1ee17
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4255b10c7eab8fabc3afcf8923c433aa
@@ -164,6 +164,7 @@ Assets:
 - Assets/AssetBundle/Variants/Bosses/Aurelionite/ColossalAurelionite/ColossalStoneTitan_SizeModifier.asset
 - Assets/AssetBundle/Variants/Bosses/BeetleQueen/BeetleEmpress/BeetleEmpress.asset
 - Assets/AssetBundle/Variants/Enemies/Parent/Child/Child_Inventory.asset
+- Assets/AssetBundle/Variants/Enemies/LesserWisp/Stone Wisp/StoneWisp_Mesh.mesh
 - Assets/AssetBundle/Materials/HealerShroom/HealerShroom.png
 - Assets/AssetBundle/Materials/AlphaBison/Body/AlphaBison.png
 - Assets/AssetBundle/Variants/Enemies/MiniMushrum/Mamma/MammaShroom.asset
@@ -199,6 +200,7 @@ Assets:
 - Assets/AssetBundle/Variants/Bosses/Aurelionite/ColossalAurelionite/ColossalAurelionite_NameOverride.asset
 - Assets/AssetBundle/Variants/Bosses/Aurelionite/AncientStoneTitan/AncientStoneTitan_OverrideNAme.asset
 - Assets/AssetBundle/Variants/Enemies/LesserWisp/LeastestWisp/LeastestWisp_OverrideName.asset
+- Assets/AssetBundle/Variants/Enemies/LesserWisp/Stone Wisp/StoneWisp_MeshReplacement.asset
 - Assets/AssetBundle/Materials/IchorOverlord/Dust/texCloudOrganic2.asset
 - Assets/AssetBundle/Variants/Bosses/Aurelionite/ColossalAurelionite/ColossalAurelionite.asset
 - Assets/AssetBundle/Variants/Enemies/LesserWisp/Stone Wisp/StoneWisp_VariantConfig.asset
@@ -206,6 +208,7 @@ Assets:
 - Assets/AssetBundle/Variants/Enemies/ElderLemurian/GhostOfRunald/GhostOfRunald_Equipment.asset
 - Assets/AssetBundle/Variants/Enemies/Imp/BruiserImp/BruiserImp_OverrideName.asset
 - Assets/AssetBundle/Variants/Enemies/LesserWisp/Stone Wisp/StoneWisp_SkillReplacement.asset
+- Assets/AssetBundle/Variants/Enemies/BrassContraption/SteelContraption/SteelContraption_Mesh.mesh
 - Assets/AssetBundle/Variants/Enemies/Parent/Adolescent/Adolescent.asset
 - Assets/AssetBundle/Variants/Enemies/LesserWisp/Stone Wisp/StoneWisp_SizeModifier.asset
 - Assets/AssetBundle/Variants/Bosses/ImpOverlord/IchorOverlord/IchorOverlord_LightReplacement.asset
@@ -240,6 +243,8 @@ Assets:
 - Assets/AssetBundle/Variants/Bosses/ImpOverlord/BerserkerOverlord/BerserkerOverlord_SizeModifier.asset
 - Assets/AssetBundle/Variants/Enemies/ElderLemurian/IncineratingElderLemurian/IncineratingElderLemurian_OverrideName.asset
 - Assets/AssetBundle/Variants/Enemies/Mods/MoffeinClayMen/ClayAssasin/ClayAssasin_SpectralMat.asset
+- Assets/AssetBundle/Variants/Enemies/BrassContraption/SteelContraption/SteelContraption_MeshReplacement.asset
+- Assets/AssetBundle/Variants/Enemies/GreaterWisp/AmalgamatedGreaterWisp/AmalgamatedGreaterWisp_Mesh.mesh
 - Assets/AssetBundle/Variants/Enemies/Parent/Child/EmptySkillDef.asset
 - Assets/AssetBundle/Variants/Enemies/GreaterWisp/AmalgamatedGreaterWisp/AmalgamatedGreaterWisp_ChargeGreaterEmbersDef.asset
 - Assets/AssetBundle/Variants/Enemies/Parent/Adolescent/Adolescent_SizeModifier.asset
@@ -271,7 +276,6 @@ Assets:
 - Assets/AssetBundle/Materials/IchorImp/texCloudOrganic1.asset
 - Assets/AssetBundle/Materials/IchorOverlord/Body/IchorOverlordNormal.png
 - Assets/AssetBundle/Variants/Enemies/GreaterWisp/SomewhatGreatWisp/SomewhatGreatWisp.asset
-- Assets/AssetBundle/Variants/Enemies/GreaterWisp/AmalgamatedGreaterWisp/AmalgamatedGreaterWisp_SizeModifier.asset
 - Assets/AssetBundle/Materials/AluminumContraption/texBellNormal.asset
 - Assets/AssetBundle/Variants/Enemies/Imp/IchorImp/IchorImp_IchorClaws.asset
 - Assets/AssetBundle/Variants/Enemies/HermitCrab/MortarCrab/MortarCrab_VariantConfig.asset
@@ -369,6 +373,7 @@ Assets:
 - Assets/AssetBundle/Variants/Enemies/LesserWisp/LeastestWisp/LeastestWisp.asset
 - Assets/AssetBundle/Variants/Bosses/ImpOverlord/BerserkerOverlord/BerserkerOverlord_SkillReplacement.asset
 - Assets/AssetBundle/Variants/Bosses/ImpOverlord/IchorOverlord/IchorOverlord_SwipeReplacement.asset
+- Assets/AssetBundle/Variants/Enemies/GreaterWisp/AmalgamatedGreaterWisp/AmalgamatedGreaterWisp_MeshReplacement.asset
 - Assets/AssetBundle/Variants/Enemies/SolusProbe/SolusProbeMK2/SolusProbeMK2_PrimaryReplacement.asset
 - Assets/AssetBundle/Variants/Enemies/ElderLemurian/GhostOfKjaro/GhostOfKjaro_Equipment.asset
 - Assets/AssetBundle/Variants/Bosses/ImpOverlord/BerserkerOverlord/BerserkerOverlord.asset
