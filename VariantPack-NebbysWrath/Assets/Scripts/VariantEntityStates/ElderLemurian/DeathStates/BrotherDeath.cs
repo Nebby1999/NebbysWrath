@@ -37,6 +37,7 @@ namespace NebbysWrath.VariantEntityStates.ElderLemurian.DeathStates
                         CharacterMaster master = lemmy.GetComponent<CharacterMaster>();
                         lemmy.GetComponent<Inventory>().SetEquipmentIndex(base.characterBody.inventory.currentEquipmentIndex);
                         lemmy.GetComponent<Inventory>().GetComponentInParent<CharacterMaster>().GetBody().modelLocator.modelTransform.GetComponent<CharacterModel>().baseRendererInfos[0].defaultMaterial = Resources.Load<Material>("Materials/matGhostEffect");
+                        lemmy.GetComponent<CharacterBody>().AddTimedBuff(RoR2Content.Buffs.Immune, 1);
                     }
                 }
                 DestroyBodyAsapServer();

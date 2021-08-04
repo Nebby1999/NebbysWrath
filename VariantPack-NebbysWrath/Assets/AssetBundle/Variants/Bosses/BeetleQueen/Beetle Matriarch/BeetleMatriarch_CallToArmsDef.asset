@@ -19,8 +19,7 @@ MonoBehaviour:
   icon: {fileID: 0}
   activationStateMachineName: Body
   activationState:
-    _typeName: NebbysWrath.VariantEntityStates.BeetleQueen.CallToArms, NebbysWrath,
-      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    _typeName: NebbysWrath.VariantEntityStates.BeetleQueen.CallToArms, NebbysWrath
   interruptPriority: 0
   baseRechargeInterval: 30
   baseMaxStock: 1

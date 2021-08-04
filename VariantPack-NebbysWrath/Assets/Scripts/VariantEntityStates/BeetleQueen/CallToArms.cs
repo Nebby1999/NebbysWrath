@@ -6,7 +6,7 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.Networking;
 
-namespace Assets.Scripts.VariantEntityStates.BeetleQueen
+namespace NebbysWrath.VariantEntityStates.BeetleQueen
 {
     public class CallToArms : BaseState
     {

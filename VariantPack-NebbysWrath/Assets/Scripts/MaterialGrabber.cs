@@ -22,6 +22,7 @@ namespace NebbysWrath
         public Material lesserWispFireMat;
         public Material perforatorMat;
         public Material spectralMat;
+        public Material solusProbeMat;
 
         public void StartGrabber(AssetBundle assets)
         {
@@ -60,6 +61,11 @@ namespace NebbysWrath
             //Spectral Material
             spectralMat = Resources.Load<Material>("Materials/matGhostEffect");
             CreateVMR(spectralMat, "SpectralMaterial");
+
+            //Solus Probe Mat
+            solusProbeMat = UnityEngine.Object.Instantiate(Resources.Load<GameObject>("Prefabs/CharacterBodies/RoboBallBossBody").GetComponentInChildren<CharacterModel>().baseRendererInfos[0].defaultMaterial);
+            CreateVMR(solusProbeMat, "SolusProbeMaterial");
+
         }
         public void CreateVMR(Material material, string identifier)
         {

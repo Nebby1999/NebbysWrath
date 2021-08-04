@@ -1,28 +1,28 @@
 fileFormatVersion: 2
-guid: faa547e38a22a2c43addc1323eeaf35d
+guid: 2e3347d9e026f7e4d9038832d9219b64
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: Armature.002
-    100002: FootControl.l
-    100004: FootControl.r
-    100006: IKArmTarget.l
-    100008: IKArmTarget.l_end
-    100010: IKArmTarget.r
-    100012: IKArmTarget.r_end
-    100014: IKFootPole.l
-    100016: IKFootPole.l_end
-    100018: IKFootPole.r
-    100020: IKFootPole.r_end
-    100022: IKFootTarget.l
-    100024: IKFootTarget.l_end
-    100026: IKFootTarget.r
-    100028: IKFootTarget.r_end
-    100030: IKTargetPole.l
-    100032: IKTargetPole.l_end
-    100034: IKTargetPole.r
-    100036: IKTargetPole.r_end
-    100038: //RootNode
+    100002: //RootNode
+    100004: FootControl.l
+    100006: FootControl.r
+    100008: IKArmTarget.l
+    100010: IKArmTarget.l_end
+    100012: IKArmTarget.r
+    100014: IKArmTarget.r_end
+    100016: IKFootPole.l
+    100018: IKFootPole.l_end
+    100020: IKFootPole.r
+    100022: IKFootPole.r_end
+    100024: IKFootTarget.l
+    100026: IKFootTarget.l_end
+    100028: IKFootTarget.r
+    100030: IKFootTarget.r_end
+    100032: IKTargetPole.l
+    100034: IKTargetPole.l_end
+    100036: IKTargetPole.r
+    100038: IKTargetPole.r_end
     100040: Par_Head_TopSHJnt
     100042: Par_Head_TopSHJnt_end
     100044: Par_L_Arm_ClavicleSHJnt
@@ -84,25 +84,25 @@ ModelImporter:
     100156: Par_TrajectorySHJnt
     100158: ParentMesh.001
     400000: Armature.002
-    400002: FootControl.l
-    400004: FootControl.r
-    400006: IKArmTarget.l
-    400008: IKArmTarget.l_end
-    400010: IKArmTarget.r
-    400012: IKArmTarget.r_end
-    400014: IKFootPole.l
-    400016: IKFootPole.l_end
-    400018: IKFootPole.r
-    400020: IKFootPole.r_end
-    400022: IKFootTarget.l
-    400024: IKFootTarget.l_end
-    400026: IKFootTarget.r
-    400028: IKFootTarget.r_end
-    400030: IKTargetPole.l
-    400032: IKTargetPole.l_end
-    400034: IKTargetPole.r
-    400036: IKTargetPole.r_end
-    400038: //RootNode
+    400002: //RootNode
+    400004: FootControl.l
+    400006: FootControl.r
+    400008: IKArmTarget.l
+    400010: IKArmTarget.l_end
+    400012: IKArmTarget.r
+    400014: IKArmTarget.r_end
+    400016: IKFootPole.l
+    400018: IKFootPole.l_end
+    400020: IKFootPole.r
+    400022: IKFootPole.r_end
+    400024: IKFootTarget.l
+    400026: IKFootTarget.l_end
+    400028: IKFootTarget.r
+    400030: IKFootTarget.r_end
+    400032: IKTargetPole.l
+    400034: IKTargetPole.l_end
+    400036: IKTargetPole.r
+    400038: IKTargetPole.r_end
     400040: Par_Head_TopSHJnt
     400042: Par_Head_TopSHJnt_end
     400044: Par_L_Arm_ClavicleSHJnt
@@ -167,7 +167,6 @@ ModelImporter:
     4300000: ParentMesh.001
     9500000: //RootNode
     13700000: ParentMesh.001
-    2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
     importMaterials: 1

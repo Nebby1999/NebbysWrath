@@ -24,7 +24,6 @@ MonoBehaviour:
   spawnRate: 0
   givesRewards: 1
   customVariantReward: {fileID: 0}
-  customInventory: []
   variantInventory: {fileID: 11400000, guid: 524eaec3ae67bf44cb72b719ea3ead11, type: 2}
   customEquipment: {fileID: 0}
   buff: []
@@ -38,10 +37,12 @@ MonoBehaviour:
   armorMultiplier: 0
   armorBonus: 0
   arrivalMessage: 
-  meshReplacement: []
+  meshReplacement:
+  - {fileID: 11400000, guid: 2343ef6a516e24d40a6811784bc1fae3, type: 2}
   materialReplacement:
   - {fileID: 11400000, guid: aef26d2267dfd6040a17473cebd1e589, type: 2}
   lightReplacement: []
   sizeModifier: {fileID: 11400000, guid: fca75d2ffb6669f4fa9850171381a9cb, type: 2}
-  extraComponents: []
+  extraComponents:
+  - {fileID: 11400000, guid: f9213d2e6ccc50a4ca25e0130239c4fe, type: 2}
   customDeathState: 

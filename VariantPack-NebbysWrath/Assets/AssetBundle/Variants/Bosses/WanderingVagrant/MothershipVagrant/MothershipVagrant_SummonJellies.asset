@@ -12,17 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 1391837873, guid: 06dd3d5416bf43ea368cc39ff96e6d5a, type: 3}
   m_Name: MothershipVagrant_SummonJellies
   m_EditorClassIdentifier: 
-  <skillIndex>k__BackingField: 0
   skillName: SummonJellies
   skillNameToken: 
   skillDescriptionToken: 
   keywordTokens: []
   icon: {fileID: 0}
-  activationStateMachineName: 
+  activationStateMachineName: Body
   activationState:
-    _typeName: 
-  interruptPriority: 1
-  baseRechargeInterval: 1
+    _typeName: NebbysWrath.VariantEntityStates.WanderingVagrant.SummonJellies, NebbysWrath
+  interruptPriority: 0
+  baseRechargeInterval: 6
   baseMaxStock: 1
   rechargeStock: 1
   requiredStock: 1

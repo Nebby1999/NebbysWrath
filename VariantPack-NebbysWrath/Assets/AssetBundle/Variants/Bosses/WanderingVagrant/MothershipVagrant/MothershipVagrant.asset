@@ -28,17 +28,18 @@ MonoBehaviour:
   customEquipment: {fileID: 0}
   buff: []
   skillReplacement:
-  - {fileID: 0}
-  healthMultiplier: 1
-  moveSpeedMultiplier: 1
+  - {fileID: 11400000, guid: 07c556dfaac005048ba859f178ee91f4, type: 2}
+  healthMultiplier: 1.5
+  moveSpeedMultiplier: 2
   attackSpeedMultiplier: 1
   damageMultiplier: 1
   armorMultiplier: 1
-  armorBonus: 0
+  armorBonus: 30
   arrivalMessage: 
   meshReplacement: []
-  materialReplacement: []
+  materialReplacement:
+  - {fileID: 11400000, guid: 301353da0e5739f489f003a57e03e0b1, type: 2}
   lightReplacement: []
-  sizeModifier: {fileID: 0}
+  sizeModifier: {fileID: 11400000, guid: ec1d67686ea40e04d9c7f1c7ff0c10e1, type: 2}
   extraComponents: []
   customDeathState: 

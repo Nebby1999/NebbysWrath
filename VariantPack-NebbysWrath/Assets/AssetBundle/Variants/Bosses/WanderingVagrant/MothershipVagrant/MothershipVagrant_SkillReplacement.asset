@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: -1868806056, guid: 4977c4ff63844754c8406d99764b5202, type: 3}
   m_Name: MothershipVagrant_SkillReplacement
   m_EditorClassIdentifier: 
-  skillSlot: 0
-  skillDef: {fileID: 0}
+  skillSlot: 1
+  skillDef: {fileID: 11400000, guid: a3fd9cf1a5c609c44bb7c1aae75b9681, type: 2}
